@@ -2,7 +2,7 @@
 #include <omp.h>
 #include <time.h>
 #include <stdlib.h>
-#define N 4096
+#define N 1024
 #define FactorIntToDouble 1.1
 
 double firstMatrix[N][N] = {0.0};
